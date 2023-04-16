@@ -1,0 +1,1 @@
+# Zabbix proxy poller processes more than 75% busy
